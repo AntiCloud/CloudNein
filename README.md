@@ -53,4 +53,4 @@ FINAL COMMENTS
 
 Thanks to everyone who helped in the development of Cloud Nein, and more so to everyone who gave us the motivation to do it.  Cloud's suck, but buzzwords even more so.
 
-This application will not be maintained, unless we have the time, need, or desire to make further updates.  Feel free to branch new versions and extend this application as you see fit.  If anything particularly great is created, we'll point a link to it so others can make use of it too.
+This application will not be maintained, unless we have the time, need, or desire to make further updates.  Feel free to branch new versions and extend this application as you see fit.  If anything particularly great is created, we'll point a link to it in this readme so others can make use of it too.
